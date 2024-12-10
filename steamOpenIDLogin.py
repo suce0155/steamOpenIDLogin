@@ -1,5 +1,4 @@
 from pysteamauth.auth import Steam
-import tls_client
 import http.client
 
 #OpenID Url Like This : https://steamcommunity.com/openid/login?openid.ns=http://specs.openid.net/auth/2.0&openid.mode=checkid_setup&openid.return_to...

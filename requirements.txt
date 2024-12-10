@@ -1,0 +1,2 @@
+pysteamauth==1.0.0
+tls_client==0.2.2

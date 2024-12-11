@@ -5,7 +5,7 @@ Little improved version of [pysteamauth](https://github.com/sometastycake/pystea
 
 ## Usage
 
-Install requirements using "pip install -r requirements.txt".
+Pip install pysteamauth.
 
 Give username,password and url params. Openid_url ,is the url you get when clicking on "sign in through steam", should look like below.
 
